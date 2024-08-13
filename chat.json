@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of brown would you prefer for the background to ensure it aligns with the app's theme?\", \"option1\": \"A light shade of brown that enhances readability and user comfort.\", \"option2\": \"A dark shade of brown that complements the marketplace theme and product display.\"}, {\"question 2\": \"Would you like the background change to be applied site-wide or only specific sections/pages?\", \"option1\": \"Apply the brown background color site-wide for consistency.\", \"option2\": \"Change the background color to brown only on specific sections/pages for targeted emphasis.\"}], \"input_token_count\": 256, \"output_token_count\": 130, \"time_taken\": \"0:00:04.563672\"}",
+        "message_id": "guest13082024165011",
+        "timestamp": "13082024165016",
+        "component_file_name": "purple_background_cta_component_1723567788",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I'll change the background to brown.",
         "message_id": "guest13082024165011",
